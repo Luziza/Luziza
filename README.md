@@ -1,7 +1,7 @@
 ## Olá, eu sou a Luiza Ribeiro
 
 - 🔭 Estou atualmete fazendo graduação em Bacharelado de sistemas de informação.
-- 🌱 Estou estudando html, css e javascripts e oracle database
+- 🌱 Sou desenvolvedora junior e trabalho com  linguagem Flutter
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
